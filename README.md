@@ -165,6 +165,7 @@ sudo passwd postgres
 ![Image alt](https://github.com/VashchenkoA/autofailover/raw/master/images/22.png)
 
 Файл для логов:
+
 ![Image alt](https://github.com/VashchenkoA/autofailover/raw/master/images/23.png)
 
 Создадим скрипт /etc/pgpool2/failover.sh:
