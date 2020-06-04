@@ -3,10 +3,13 @@
 
 Arbiter – 192.168.145.134
 ![Image alt](https://github.com/VashchenkoA/autofailover/raw/master/images/1.png)
+
 Slave – 192.168.145.133
 ![Image alt](https://github.com/VashchenkoA/autofailover/raw/master/images/2.png)
+
 Master – 192.168.145.132
 ![Image alt](https://github.com/VashchenkoA/autofailover/raw/master/images/3.png)
+
 Настраивать autofailover будем при помощи pgpool.
 
 На master и slave устанавливаем:
